@@ -4,3 +4,9 @@ print (h)
 h = "Lets Begin Programming!"
 
 print (h)
+
+
+func getstarted()
+{
+print("lets get it")
+}
